@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zardes42
-- 👀 I’m interested in ...  FULL STACK DEVELEOPMENT
+- 👀 I’m interested in ...  FRONTEND DEVELOPMENT
 - 🌱 I’m currently learning ... NEXT JS | TYPESCRIPT
-- 💞️ I’m looking to collaborate on ... React | Typescript | Node | projects 
+- 💞️ I’m looking to collaborate on ... React | Typescript | Node | Django
 - 📫 How to reach me ... iyinoyelz69@gmail.com 
 
 <!---
